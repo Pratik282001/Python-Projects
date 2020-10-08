@@ -18,3 +18,4 @@ if __name__ == "__main__":
     n= int(input("Enter number to find factorial: "))
     print(f"factorial is {factorial(n)}.")
     print(f"trailing zeroes in factorial are {trailingzeroes(n)}.")
+    #trailing zeros are a sequence of 0 in the decimal representation of a number, after which no other digits follow.
